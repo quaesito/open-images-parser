@@ -1,5 +1,5 @@
 ## Data Parser for Open Images
-These scripts were written in order to download annotations from Google's Open Images dataset and convert them into our internal sp csv format.
+These scripts were written in order to download annotations from Google's Open Images dataset and convert them into a simple csv format.
 If you want to have a look at the publicly available data, you can go to the following link
 https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=segmentation&r=false&c=%2Fm%2F025rp__
 
